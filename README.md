@@ -24,3 +24,5 @@ Several classes uploaded here realize local generation of Echarts diagrams.
             <version>1.0.19</version>
         </dependency>
 
+##  option.ftl需要放到resources/templates下    option.ftl needs to be placed under resources/templates
+
