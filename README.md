@@ -3,7 +3,8 @@
 Several classes uploaded here realize local generation of Echarts diagrams.
 
 ## xml
- <dependency>
+       <!--JSON的依赖-->
+        <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.47</version>
